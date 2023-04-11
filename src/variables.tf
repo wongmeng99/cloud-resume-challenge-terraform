@@ -11,3 +11,11 @@ variable "bucket_name" {
 variable "common_tags" {
   description = "Common tags you want applied to all components."
 }
+
+variable "account_ID"{
+  type = string
+}
+
+variable "my_region"{
+  type = string
+}

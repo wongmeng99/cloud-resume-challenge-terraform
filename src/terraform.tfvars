@@ -1,6 +1,9 @@
-domain_name = "yourdomain.com"
-bucket_name = "yourdomain.com"
+domain_name = "terraform.henrywongresume.com"
+bucket_name = "terraform.henrywongresume.com"
 
 common_tags = {
-  Project = "yourdomain"
+  Project = "terraform.henrywongresume.com"
 }
+account_ID = "240687987985"
+
+my_region = "us-east-1"
